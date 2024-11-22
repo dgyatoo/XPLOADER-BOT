@@ -20,18 +20,18 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //=================================================//
 
-global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭' 
+global.botname = process.env.BOT_NAME || 'Ghost inc' 
 //Your desured bot name
 
 //=================================================//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
+global.ownernumber = process.env.OWNER_NUMBER || '2348169978607'
 //Type your number here
 
 //=================================================//
 
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Ghost' 
 //Type your name here
 
 //=================================================//
@@ -44,16 +44,16 @@ global.themeemoji = process.env.GL_EMOJI || '□'
 
 //=================================================//
 
-global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭"
+global.wm = process.env.GL_WM || "©ghost inc"
 
 //=================================================//
 
-global.packname = process.env.STICKER_PACK_NAME || "Xploader"
+global.packname = process.env.STICKER_PACK_NAME || "ghost inc"
 //The sticker pack name 
 
 //=================================================//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Bot"
+global.author = process.env.STICKER_AUTHOR_NAME || "ghost inc"
 //The sticker author name 
 
 //=================================================//
@@ -67,7 +67,7 @@ global.xprefix = process.env.PREFIX || '.'
 
 //=================================================//
 
-global.premium = process.env.PREMIUM_VIP || ["254796180105"] 
+global.premium = process.env.PREMIUM_VIP || ["2348169978607"] 
 //Premium User
 
 //=================================================//
